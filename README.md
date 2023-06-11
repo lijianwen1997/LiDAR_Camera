@@ -12,6 +12,8 @@ sudo apt install -y                     \
     libjsoncpp-dev          \
     libspdlog-dev           \
     libcurl4-openssl-dev    \
+    ros-noetic-librealsense2 \
+    ros-noetic-ddynamic-reconfigure 
 ```
 ## Compile 
 ```
